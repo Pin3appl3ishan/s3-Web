@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,10 +16,6 @@ A simple age calculator which calculates the interval between the input date and
 
 ![](./reference.png)
 
-### Links
-
-- Solution URL: [At Frontend Mentor](https://www.frontendmentor.io/solutions/age-calculator-ZQ2miZOJ0x)
-- Live Site URL: [Click Here](https://agecalcishan.netlify.app/)
 ## My process
  -Took the screenshot of reference image
  - Divided the page in blocks 
