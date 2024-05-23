@@ -17,10 +17,11 @@ A simple age calculator which calculates the interval between the input date and
 ![](./reference.png)
 
 ## My process
+
  -Took the screenshot of reference image
  - Divided the page in blocks 
  - Named unique names for main divs
- - Used table tag to design talbe 
+ - Used table tag to design table
 
 
 ### Built with
@@ -29,7 +30,8 @@ A simple age calculator which calculates the interval between the input date and
 
 
 ### What I learned
-Patience
+
+-Patience
 
 ## Author
 
