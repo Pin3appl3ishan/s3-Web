@@ -10,7 +10,7 @@
 - [Author](#author)
 
 ## Overview
-A simple age calculator which calculates the interval between the input date and current date.
+A simple barebone of schoolworkspro webapp.
 
 ### Screenshot
 
@@ -18,10 +18,10 @@ A simple age calculator which calculates the interval between the input date and
 
 ## My process
 
- -Took the screenshot of reference image
- - Divided the page in blocks 
- - Named unique names for main divs
- - Used table tag to design table
+  -Took the screenshot of reference image
+  - Divided the page in blocks 
+  - Named unique names for main divs
+  - Used table tag to design table
 
 
 ### Built with
@@ -31,7 +31,7 @@ A simple age calculator which calculates the interval between the input date and
 
 ### What I learned
 
--Patience
+  -Patience
 
 ## Author
 
